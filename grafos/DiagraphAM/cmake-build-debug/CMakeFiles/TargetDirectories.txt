@@ -1,0 +1,3 @@
+C:/Users/ritab/CLionProjects/PP1/DiagraphAM/cmake-build-debug/CMakeFiles/DiagraphAM.dir
+C:/Users/ritab/CLionProjects/PP1/DiagraphAM/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ritab/CLionProjects/PP1/DiagraphAM/cmake-build-debug/CMakeFiles/rebuild_cache.dir

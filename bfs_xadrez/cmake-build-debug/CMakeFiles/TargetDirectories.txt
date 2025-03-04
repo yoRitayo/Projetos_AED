@@ -1,0 +1,3 @@
+C:/Users/ritab/CLionProjects/PP2/problemaTabuleiro/cmake-build-debug/CMakeFiles/problemaTabuleiro.dir
+C:/Users/ritab/CLionProjects/PP2/problemaTabuleiro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ritab/CLionProjects/PP2/problemaTabuleiro/cmake-build-debug/CMakeFiles/rebuild_cache.dir

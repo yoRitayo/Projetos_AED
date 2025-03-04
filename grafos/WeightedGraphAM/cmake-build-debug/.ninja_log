@@ -1,0 +1,11 @@
+# ninja log v6
+8	829	7480499155247000	CMakeFiles/WeightedGraphAM.dir/main.cpp.obj	62c4ebe501274992
+831	1004	7480499163472679	WeightedGraphAM.exe	bca77af113e0dad0
+14	766	7480666831647818	CMakeFiles/WeightedGraphAM.dir/main.cpp.obj	62c4ebe501274992
+767	945	7480666839165498	WeightedGraphAM.exe	bca77af113e0dad0
+23	860	7480669163562472	CMakeFiles/WeightedGraphAM.dir/main.cpp.obj	62c4ebe501274992
+861	997	7480669171944950	WeightedGraphAM.exe	bca77af113e0dad0
+7	814	7480670288991042	CMakeFiles/WeightedGraphAM.dir/main.cpp.obj	62c4ebe501274992
+815	953	7480670297060404	WeightedGraphAM.exe	bca77af113e0dad0
+71	2210	7480674298046296	CMakeFiles/WeightedGraphAM.dir/main.cpp.obj	62c4ebe501274992
+2212	2652	7480674319440906	WeightedGraphAM.exe	bca77af113e0dad0
